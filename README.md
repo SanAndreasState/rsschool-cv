@@ -1,1 +1,1 @@
-https://SanAndreasState.github.io/rsschool-cv/cv
+https://SanAndreasState.github.io/rsschool-cv/
